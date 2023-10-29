@@ -35,3 +35,7 @@ You can interact with the report [here](https://app.powerbi.com/reportEmbed?repo
 ## Analysis:
 
 ![IMG-5344](https://github.com/kalimimary/Dano-Airlines-Analysis-/assets/148924660/f2b3cf10-aa1b-44d1-b801-4124c36ee259)
+![IMG-5345](https://github.com/kalimimary/Dano-Airlines-Analysis-/assets/148924660/b2b548d1-0c58-4a5f-8ed4-2bcb60a2e811)
+![IMG-5346](https://github.com/kalimimary/Dano-Airlines-Analysis-/assets/148924660/44ecf57f-4132-4c4e-8f33-a6af734cfee5)
+![IMG-5350](https://github.com/kalimimary/Dano-Airlines-Analysis-/assets/148924660/ada20297-bc5e-4a8e-ba1c-2cb701fc403f)
+
